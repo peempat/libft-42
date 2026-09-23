@@ -34,3 +34,8 @@ int	ft_atoi(const char *nptr)
 	}
 	return ((int)(result * sign));
 }
+// #include <stdio.h>
+// int main ()
+// {
+// 	printf("%d",ft_atoi("321"))
+// }
